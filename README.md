@@ -11,7 +11,7 @@ The Li-ion Battery Sorter is a hardware and software solution that enables the s
 - **High Precision Sorting**: Accurate measurement of Internal Resistance (ISR) for precise battery sorting.
 - **ATmega328P-Based Device**: The core of the device is an ATmega328P microcontroller, known for its reliability and performance.
 - **Kelvin Double Bridge Method**: Utilizes the Kelvin Double Bridge technique for precise ISR measurement.
-- **C++ Software**: The device is powered by software written in C++, providing flexibility and customization options.
+- **Software**: The device is powered by software written in C++ for the Arduino platform, providing flexibility and customization options.
 - **3D Models**: 3D models for the device components are designed in Fusion 360.
 
 ## Getting Started
