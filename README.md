@@ -44,7 +44,7 @@ This project is licensed under the [License](LICENSE).
 
 For questions or inquiries, please contact the project owner:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/nikst35)
+- **GitHub**: [My github](https://github.com/nikst35)
 
 We appreciate your interest in the Li-ion Battery Sorter project.
 
