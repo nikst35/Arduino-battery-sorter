@@ -38,13 +38,13 @@ We welcome contributions from the open-source community. If you'd like to contri
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](LICENSE).
 
 ## Contact
 
 For questions or inquiries, please contact the project owner:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [Your GitHub Profile](https://github.com/nikst35)
 
 We appreciate your interest in the Li-ion Battery Sorter project.
 
