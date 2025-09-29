@@ -5,5 +5,3 @@ Explore the 3D models designed for the Li-ion Battery Sorter project, ready for 
 ## Fusion 360 Project
 
 The 3D models are hosted on Fusion 360, and you can access the project by following this link: [3D Models](https://a360.co/3MntBkZ).
-
-In the Fusion 360 project, you can view, interact with, and download the 3D models for 3D printing to assemble the Li-ion Battery Sorter.
