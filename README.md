@@ -6,6 +6,8 @@ Welcome to the Li-ion Battery Sorter project repository. This project is a batte
 
 The Li-ion Battery Sorter is a hardware and software solution that enables the sorting of Li-ion cells into different categories based on their internal resistance. The device employs advanced measurement techniques and algorithms to accurately determine the internal resistance of each battery, providing valuable data for various applications, including battery pack assembly and quality control.
 
+You can see it work here: [Video](https://photos.app.goo.gl/ed2mon1c2cTBsrz78).
+
 ## Key Features
 
 - **High Precision Sorting**: Accurate measurement of Internal Resistance (ISR) for precise battery sorting.
